@@ -26,18 +26,18 @@ High-impact Geospatial Data Scientist and Systems Analyst with extensive experie
 * Performed advanced Geomorphological Analysis using high-resolution DEMs to model surface runoff, slope stability, and seabed morphology.
 * Conducted statistical validation of global bathymetric and topographic models, assessing vertical accuracy and horizontal displacement.
 
-##Spatial Data Architecture and Development
+## Spatial Data Architecture and Development
 
 * Design and optimization of PostGIS databases to manage massive geospatial datasets, implementing efficient SQL-based spatial indexing and analysis.
 * Management of complex Coordinate Reference Systems (CRS) for international projects, ensuring sub-meter accuracy in data integration across different projections.
 * Development of full-stack web GIS solutions, using GeoServer for data distribution (WMS, WFS) and Leaflet for user interface visualization.
 
-##Key Technical Projects
+## Key Technical Projects
 * Global Model Correlation Study: Statistical analysis comparing GEBCO and ETOPO models using Python to evaluate their reliability in diverse tectonic environments.
 * Satellite Intelligence Pipeline: Automated system for monitoring strategic areas using Sentinel-2 and Landsat-8 imagery with real-time spectral analysis.
 * Seismic-Tectonic Mapping: Integration of real-time earthquake data with tectonic boundary layers to visualize regional geophysical hazards.
 
-##Key Tools:
+## Key Tools:
 
 * QGIS
 * ArcGis
